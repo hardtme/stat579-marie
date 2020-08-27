@@ -9,7 +9,7 @@ My GitHub repo for STAT 579
   
   * Playing clarinet
   
-  * Walking around my neighborhood
+  * Exploring my neighborhood
   
 - I've mostly worked with medical data for survival analysis. I've also worked with sales and weather data during an internship that I had.
 
